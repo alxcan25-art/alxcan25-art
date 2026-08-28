@@ -20,3 +20,12 @@ Cursando Teoria de Sistema Operativos
 ## Proyecto
 
 Actualmente trabajo en un proyecto final integrador relacionado con educación, tecnología e inteligencia artificial aplicada a la enseñanza digital.
+
+## Conocimientos
+
+- Desarrollo de diseño integral de videos juegos
+- Programación
+- Git y GitHub
+- Diseño grafico
+- Psicologia
+- Trading
